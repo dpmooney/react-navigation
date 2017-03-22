@@ -38,6 +38,8 @@ For our app, we want to use the `StackNavigator` because we want a conceptual 's
 import React from 'react';
 import {
   AppRegistry,
+  View,
+  Button
   Text,
 } from 'react-native';
 import { StackNavigator } from 'react-navigation';
